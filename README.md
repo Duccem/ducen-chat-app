@@ -1,4 +1,4 @@
-# ducen-chat
+# ducen-chat-app
 
 ## Project setup
 ```
